@@ -1,0 +1,3 @@
+﻿  ConsoleApplication22.cpp
+C:\Users\Guven Servis\OneDrive\Desktop\C++  Projects\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(455,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication22.vcxproj -> C:\Users\Guven Servis\OneDrive\Desktop\C++  Projects\ConsoleApplication22\x64\Debug\ConsoleApplication22.exe

@@ -1,0 +1,12 @@
+Name: Admin
+Question size: 4
+True answers: 4
+False answers: 0
+Passes answers: 0
+
+Name: Nihad
+Question size: 4
+True answers: 2
+False answers: 0
+Passes answers: 2
+
